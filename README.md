@@ -11,8 +11,8 @@ Mar 13, 2021
 5. Rename columns to lower-case. And **total_price** to **total_price (USD)**, **price** to **price (USD)**.
 6. Enrich value of **Gender**, For instance **M** to **Male** and **F** to **Female**.
 7. Which product is the most expensive?
-8. Which country has the most user?    
-9. How many users are Thai?
+8. Which country has the most user?   
+9. How many users in Thailand
 10. Save the data as **CSV** file.
 
 
